@@ -1,5 +1,11 @@
 # 📑 PDF Tools – Aplikasi Bantu Upload Skripsi ke Repository
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-tools-s.streamlit.app/)
+
+🔗 **Coba langsung aplikasi di sini:** [PDF Tools Online](https://pdf-tools-s.streamlit.app/)
+
+---
+
 ## 📝 Latar Belakang
 
 Mahasiswa akhir biasanya diwajibkan **unggah mandiri skripsi/tugas akhir** ke repository perpustakaan kampus.
@@ -39,7 +45,7 @@ Aplikasi **PDF Tools** ini dibuat untuk memudahkan mahasiswa mengolah file PDF m
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🚀 Cara Menjalankan (Lokal)
 
 1. **Clone repository** ini atau unduh sebagai `.zip`.
 2. Pastikan Python 3.8+ sudah terinstal.
